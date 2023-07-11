@@ -1,0 +1,190 @@
+﻿  main.cpp
+C:\CSC305\ext\gif-h\gif.h(379,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\CSC305\ext\stb\stb_image_write.h(222,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\ext\stb\stb_image_write.h(616,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\ext\stb\stb_image_write.h(998,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\Assignment_5\src\main.cpp(182,107): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(182,88): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(182,69): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(182,50): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(193,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(193,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(193,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(194,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(194,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(194,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(195,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(195,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(195,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(239,107): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(239,88): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(239,69): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(239,50): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(252,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(252,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(252,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(253,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(253,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(253,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(254,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(254,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(254,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(326,25): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(326,31): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(326,37): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(351,108): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(351,89): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(351,70): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(351,51): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(382,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(382,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(382,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(383,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(383,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(383,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(384,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(384,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(384,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(447,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(447,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(447,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(448,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(448,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(448,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(449,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(449,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(449,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(476,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(476,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(476,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(477,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(477,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(477,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(478,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(478,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(478,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(510,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CSC305\Assignment_5\src\main.cpp(517,110): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(517,70): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(517,50): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(523,113): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(523,73): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(523,53): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(529,116): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(529,76): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(529,56): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(535,114): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(535,74): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(535,54): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(544,71): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(544,51): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(551,77): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(551,57): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(552,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\CSC305\Assignment_5\src\main.cpp(557,74): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(557,54): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(565,77): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(565,57): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(566,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\CSC305\Assignment_5\src\main.cpp(571,72): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(571,52): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(579,77): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(579,57): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'uint32_t', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\src\main.cpp(580,29): warning C4305: '+=': truncation from 'double' to 'float'
+  assignment5.vcxproj -> C:\CSC305\Assignment_5\build\Debug\assignment5.exe

@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\CSC305\Assignment_2\src\utils.h(10,14): warning C4244: 'return': conversion from 'double' to 'unsigned char', possible loss of data
+C:\CSC305\Assignment_2\src\utils.h(21,22): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(21,14): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'const int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(22,22): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(22,14): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'const int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(27,27): warning C4018: '<': signed/unsigned mismatch
+C:\CSC305\Assignment_2\src\utils.h(28,28): warning C4018: '<': signed/unsigned mismatch
+C:\CSC305\Assignment_2\src\utils.h(42,22): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(42,14): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'const int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(43,22): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\src\utils.h(43,14): warning C4244: 'initializing': conversion from 'Eigen::EigenBase<Derived>::Index' to 'const int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<double,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_2\..\ext\stb\stb_image_write.h(222,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\Assignment_2\..\ext\stb\stb_image_write.h(616,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\Assignment_2\..\ext\stb\stb_image_write.h(998,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  assignment2.vcxproj -> C:\CSC305\Assignment_2\build\Release\assignment2.exe

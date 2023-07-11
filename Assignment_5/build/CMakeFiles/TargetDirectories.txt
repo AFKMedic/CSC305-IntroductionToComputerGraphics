@@ -1,0 +1,4 @@
+C:/CSC305/Assignment_5/build/CMakeFiles/assignment5.dir
+C:/CSC305/Assignment_5/build/CMakeFiles/examples.dir
+C:/CSC305/Assignment_5/build/CMakeFiles/ALL_BUILD.dir
+C:/CSC305/Assignment_5/build/CMakeFiles/ZERO_CHECK.dir

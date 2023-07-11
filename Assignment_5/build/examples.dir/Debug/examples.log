@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\CSC305\ext\stb\stb_image_write.h(222,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\ext\stb\stb_image_write.h(616,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\ext\stb\stb_image_write.h(998,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\CSC305\Assignment_5\examples\main.cpp(39,107): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\examples\main.cpp(39,88): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\examples\main.cpp(39,69): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\examples\main.cpp(39,50): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\CSC305\Assignment_5\examples\main.cpp(57,112): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\examples\main.cpp(57,72): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+C:\CSC305\Assignment_5\examples\main.cpp(57,52): warning C4244: 'argument': conversion from 'Eigen::EigenBase<Derived>::Index' to 'int', possible loss of data
+          with
+          [
+              Derived=Eigen::Matrix<FrameBufferAttributes,-1,-1,0,-1,-1>
+          ]
+  examples.vcxproj -> C:\CSC305\Assignment_5\build\Debug\examples.exe

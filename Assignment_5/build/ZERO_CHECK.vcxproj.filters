@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\CSC305\Assignment_5\build\CMakeFiles\311c0e48825bb985d0f87628809270d0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D6E15E53-8D14-320B-A4D2-BD9F0FC9069C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
